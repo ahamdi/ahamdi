@@ -1,4 +1,3 @@
-<img align="right" src="https://i.ibb.co/HBrBTjZ/weirdchamp.gif" />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ahamdi&show_icons=true&theme=github_dark&count_private=true&show_icons=true&custom_title=honzaap" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahamdi&show_icons=true&theme=github_dark&count_private=true&show_icons=true&custom_title=Ahamdi" />
 </p>
